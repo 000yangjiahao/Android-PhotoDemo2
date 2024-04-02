@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoDemoPlus</string>
+    <string name="searchPrompt">输入查询条件</string>
+    <string name="search">搜索</string>
+    <string name="phothid">图片id:</string>
+    <string name="photodescription">图片描述:</string>
+    <string name="detail">详细信息</string>
+    <string name="returnPrompt">返回列表</string>
+</resources>
